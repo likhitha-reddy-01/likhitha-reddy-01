@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **likhitha-reddy-01/likhitha-reddy-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
